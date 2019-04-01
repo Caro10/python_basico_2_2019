@@ -16,5 +16,5 @@ print("El valor de la variable llamda 'mi variable es'", mi_variable)   #comilla
 print('El valor de la variable llamda "mi variable es"',mi_variable)
 
 #caso3
-print("El valor de la variable llamda \"mi variable es\"", mi_variable) #importante saber cuando usar el comando
+print("El valor de la variable llamda \"mi variable es\"", mi_variable) #importante saber cuando usar el caracter
 
